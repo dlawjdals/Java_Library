@@ -1,0 +1,5 @@
+book_id,title,author,is_available,member_id
+1,자바의 정석,남궁성,true,
+2,Clean Code,Robert C. Martin,true,
+3,자바의 정석,남궁성,true,
+4,Clean Code,Robert C. Martin,true,
